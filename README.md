@@ -2,6 +2,12 @@
 
 A simple order management web application built with Next.js. The main feature is an interactive table that displays and filters dummy order data, allowing users to search and interact with the data in a user-friendly way.
 
+
+
+https://github.com/user-attachments/assets/6ba6e6ad-7312-4d88-97af-79f2e32ec778
+
+
+
 ## Project Structure
 
 ```
